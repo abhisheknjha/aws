@@ -1,14 +1,3 @@
-cd
-dir
-/s
-/home/user
-/home
-/user
-/usr
-/var
-tree
-sudo yum install tree
-tree
 ls
 /home
 cd ..
@@ -998,3 +987,14 @@ top
 jobs
 crontab -l
 crontab file
+git config --global user.email "abhishekjha8000@gmail.com"
+yum info git
+yum install git
+sudo yum install git
+git --version
+git config --global user.email "abhishekjha8000@gmail.com"
+git --config user.name "abhisheknjha"
+git config --user.name "abhisheknjha"
+git config --global user.name "abhishenjha"
+ls
+git init
